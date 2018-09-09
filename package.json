@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nodebotanist/electric-io-adafruitio-receiver/issues"
   },
-  "homepage": "https://github.com/nodebotanist/electric-io-adafruitio-receiver#readme"
+  "homepage": "https://github.com/nodebotanist/electric-io-adafruitio-receiver#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
 }
